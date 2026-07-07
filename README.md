@@ -1,154 +1,161 @@
 <div align="center">
 
-# Hi 👋, I'm Tanish Gupta
+# TG>
 
-### Senior SDET | Quality Engineering | Automation | AI-Driven Testing | Supply Chain Management
+# Tanish Gupta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Senior+SDET+%7C+Playwright+%7C+Java;IBM+Sterling+OMS+Specialist;Building+AI-Powered+Automation+Frameworks;Quality+Engineering+%7C+SCM+%7C+CI%2FCD" />
+### Enterprise Automation Engineer | Senior SDET | Playwright | Java | IBM Sterling OMS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish%20Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanish-gupta12)
-[![GitHub](https://img.shields.io/badge/GitHub-Archon--QA-black?style=for-the-badge&logo=github)](https://github.com/Archon-QA)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanishupta@gmail.com)
+Building scalable automation frameworks for enterprise Supply Chain Management systems.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish%20Gupta-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanish-gupta12)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Archon--QA-181717?style=for-the-badge&logo=github)](https://github.com/Archon-QA)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:tanishupta@gmail.com)
+
+[![Resume](https://img.shields.io/badge/Resume-Download-success?style=for-the-badge)](./Resume.pdf)
 
 </div>
 
 ---
 
-# 💫 About Me
+# Engineering Profile
 
-I'm a **Senior Software Development Engineer in Test (SDET)** with **4+ years of experience** in designing scalable automation solutions for **Supply Chain Management (SCM)** applications.
+I am a **Senior Software Development Engineer in Test (SDET)** with **4+ years of experience** designing scalable automation solutions for enterprise **Supply Chain Management (SCM)** platforms.
 
-My expertise lies in building robust automation frameworks, validating complex enterprise workflows, and integrating testing into CI/CD pipelines.
+My expertise lies in building maintainable automation frameworks, validating complex distributed systems, and integrating quality engineering into modern CI/CD pipelines.
 
-I enjoy solving challenging engineering problems through automation while exploring AI-powered testing solutions.
+I specialize in:
 
----
-
-# 🚀 What I Do
-
-✔ End-to-End Test Automation
-
-✔ Enterprise Supply Chain Testing
-
-✔ IBM Sterling OMS Validation
-
-✔ API & Integration Testing
-
-✔ CI/CD Automation
-
-✔ Playwright Framework Development
-
-✔ AI-powered Test Engineering
-
-✔ Quality Engineering Strategy
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-- Java
-- JavaScript
-- Gherkin
-
-### Automation
-
-- Playwright
-- Selenium
-- Cucumber (BDD)
-- TestNG
-- JUnit
-- Gradle
-
-### API & Tools
-
-- Postman
-- Elasticsearch
-- Git
-- GitHub Actions
-- Jenkins
-- JIRA
-
-### Enterprise Systems
-
+- Enterprise Automation Framework Design
+- Playwright & Selenium Automation
 - IBM Sterling OMS
-- SCM
-- Order Management
-- Inventory Management
-- Catalog Management
-
-### AI
-
-- Agentic Testing
-- Self-Healing Automation
-- AI Test Generation
-- Failure Prediction
-- Intelligent Execution
+- API & Integration Testing
+- Quality Engineering Strategy
+- AI-assisted Test Automation
+- CI/CD Integration
 
 ---
 
-# 💼 Professional Experience
+# Engineering Highlights
+
+| | |
+|:---|:---|
+| **Experience** | **4+ Years** |
+| **Regression Automation** | **70% Automated** |
+| **Execution Time** | **30% Faster** |
+| **Partner Integrations** | **200+ Enterprise Partners** |
+| **Domain** | **Enterprise Supply Chain** |
+| **OMS Platform** | **IBM Sterling OMS** |
+
+---
+
+# Technology Stack
+
+## Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=flat-square&logo=playwright)
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium)
+
+![BDD](https://img.shields.io/badge/Cucumber-BDD-23D96C?style=flat-square)
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square)
+
+![TestNG](https://img.shields.io/badge/TestNG-E97627?style=flat-square)
+
+---
+
+## Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![Gherkin](https://img.shields.io/badge/Gherkin-009688?style=flat-square)
+
+---
+
+## API & DevOps
+
+Postman • REST APIs • Elasticsearch • Git • GitHub Actions • Jenkins • Gradle
+
+---
+
+## Enterprise Systems
+
+IBM Sterling OMS
+
+Supply Chain Management
+
+Order Management
+
+Inventory Management
+
+Catalog Management
+
+---
+
+# Professional Experience
 
 ## Infosys Limited
 
-### Senior Quality Analyst (Jan 2025 – Present)
+### Senior Quality Analyst (2025 - Present)
 
-- Automated 70% of regression suite using BDD
-- Reduced execution time by 30%
+- Automated **70%** of regression suite using BDD (Java + Selenium)
+- Reduced execution timeline by **30%**
+- Designed and validated enterprise SCM workflows
 - Integrated automation into Jenkins CI/CD
-- Validated SCM workflows across IBM Sterling OMS
-- API testing using Postman
+- API Validation using Postman
 - Elasticsearch log validation
-- Mentored QA engineers and conducted KT sessions
+- Mentored QA engineers
 
-### Quality Engineer (Aug 2021 – Dec 2024)
+---
 
-- Performance validation for SCM workflows
-- Gherkin-based acceptance criteria
+### Quality Engineer (2021 - 2024)
+
+- Enterprise SCM Testing
+- Performance Validation
 - Root Cause Analysis
-- Agile QA delivery
-- Cross-functional collaboration
+- Agile Delivery
+- Cross-functional Collaboration
+- Requirement Analysis
 
 ---
 
-# 🌟 Featured Projects
+# Enterprise Case Studies
 
-## 🚀 North Star — AI Powered Playwright Framework
+## Enterprise Automation Framework
 
-A modern enterprise automation framework built from scratch using:
+Designed and implemented a scalable Playwright automation framework for validating enterprise Supply Chain Management workflows.
 
-- Playwright
-- JavaScript
-- AI Agents
+### Key Capabilities
 
-### AI Architecture
-
-- Planner Agent
-- Generator Agent
-- Healer Agent
-- Predictor Agent
-- Coordinator Agent
-
-### Highlights
-
-- Parallel execution
-- Self-healing locators
-- AI-generated test cases
-- Failure prediction
-- Multi-system orchestration
-
-Reduced E2E validation timeline from **6 weeks → 1-2 weeks**.
+- Parallel Test Execution
+- API Validation
+- Reusable Utilities
+- Intelligent Reporting
+- Scalable Framework Design
+- CI/CD Ready
 
 ---
 
-## 🌍 Global Partner Program (GPP)
+## Global Partner Program
 
-Enterprise Supply Chain validation across:
+Validated end-to-end Supply Chain workflows across **200+ enterprise partner integrations** supporting multiple global regions.
 
-- 200+ Partner Integrations
+### Coverage
 
-Supported regions:
+- Ship From Store
+- Ship From Distribution Center
+- Ship To Home
+- PUDO
+- eCommerce
+
+Regions
 
 - US
 - Europe
@@ -156,55 +163,70 @@ Supported regions:
 - Japan
 - India
 
-Validated:
+---
 
-- SFDC
-- SFS
-- STH
-- PUDO
-- eCommerce
+## Enterprise Integration Validation
+
+Worked across enterprise integrations involving:
+
+- IBM Sterling OMS
+- Middleware
+- Elasticsearch
+- SAP
+- Warehouse Systems
+
+Ensuring reliable order lifecycle validation from creation through fulfillment.
 
 ---
 
-## 🛒 Adiscom Social Commerce Integrations
+# Engineering Philosophy
 
-Owned Quality Engineering for multiple social commerce integrations.
+```text
+Requirement Analysis
 
-Highlights:
+↓
 
-- 3 Enterprise Integrations
-- ~$1M Annual Revenue Contribution
-- BDD Automation
-- Integration Testing
+Risk Assessment
+
+↓
+
+Automation Strategy
+
+↓
+
+Framework Design
+
+↓
+
+Execution
+
+↓
+
+Validation
+
+↓
+
+Reporting
+
+↓
+
+Continuous Improvement
+```
+
+> **Quality isn't tested in—it's engineered.**
 
 ---
 
-# 📈 Engineering Highlights
+# Certifications
 
-🏆 70% Regression Automated
-
-⚡ 30% Faster Test Execution
-
-🌍 200+ Partner Integrations
-
-💰 $1M Revenue Supporting Integrations
-
-🤖 AI-powered Automation Framework
-
-📦 Enterprise SCM Expertise
-
----
-
-# 🏆 Certifications
-
-- SDET (Software Development Engineer in Test)
+- Software Development Engineer in Test (SDET)
 - Digital Supply Chain Professional
-- Cloud Professional
 - Digital Assurance Professional
+- Cloud Professional
 
 ---
 
-# 🏅 Awards
+# Awards
 
 🏆 RISE Insta Awards
 
@@ -212,54 +234,60 @@ Highlights:
 
 ---
 
-# 📚 Currently Exploring
+# Currently Exploring
 
 - AI Agents for Test Automation
-- LLM-powered Test Generation
+- Autonomous Testing Systems
 - Playwright Advanced Architecture
 - GitHub Copilot
-- Autonomous Testing Systems
+- LLM-powered Test Generation
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Archon-QA&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Archon-QA&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Archon-QA&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Archon-QA&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# Most Used Technologies
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archon-QA&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archon-QA&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# Connect With Me
 
-📧 Email: **tanishupta@gmail.com**
+📧 **Email**
 
-💼 LinkedIn:
-https://www.linkedin.com/in/tanish-gupta12
+**tanishupta@gmail.com**
 
-💻 GitHub:
+💼 **LinkedIn**
+
+https://linkedin.com/in/tanish-gupta12
+
+💻 **GitHub**
+
 https://github.com/Archon-QA
 
 ---
 
 <div align="center">
 
-### "Quality isn't tested in—it's engineered."
+## Let's build reliable software together.
 
-⭐ If you like my work, feel free to star my repositories!
+*"Quality isn't tested in—it's engineered."*
+
+⭐ If you find my work interesting, feel free to connect or explore my repositories.
 
 </div>
